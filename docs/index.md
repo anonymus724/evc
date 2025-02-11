@@ -47,7 +47,7 @@
 </tbody></table>
 
 <h2>Happy samples:</h2>
-    <table class="tg"><thead>
+<table class="tg"><thead>
   <tr>
     <th class="tg-73oq">Source Audio</th>
     <th class="tg-73oq">Target Audio</th>
